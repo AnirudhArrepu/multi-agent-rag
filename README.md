@@ -38,3 +38,7 @@ rag_qa agent generates a prompt with the context retrieved from chromaDB based o
   pip install -r requirements.txt
   streamlit run main.py
   ```
+
+
+### DEMO
+https://drive.google.com/file/d/1L58BVqwT5uOxNjWCX9f-eeujKAeX0EMU/view?usp=sharing
